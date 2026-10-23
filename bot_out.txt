@@ -1,0 +1,8 @@
+[2026-08-10 00:48:22] [32minfo[39m: Using local FFmpeg: C:\Users\jojom\Downloads\Archive\ffmpeg_extracted\ffmpeg-master-latest-win64-gpl\bin\ffmpeg.exe
+[2026-08-10 00:48:23] [32minfo[39m: FFmpeg bin added to PATH: C:\Users\jojom\Downloads\Archive\ffmpeg_extracted\ffmpeg-master-latest-win64-gpl\bin
+[2026-08-10 00:48:23] [32minfo[39m: Loaded 15 commands
+[2026-08-10 00:48:24] [32minfo[39m: fluxslayer78mskf. is ready
+[2026-08-10 00:48:24] [32minfo[39m: Connected to guild: F2 Studio . (1488596139669192707)
+[2026-08-10 00:48:24] [32minfo[39m: Voice channel found: f2q. (type: GUILD_VOICE)
+[2026-08-10 00:48:24] [32minfo[39m: Permissions - Connect: true, Speak: true, Video: true
+[2026-08-10 00:48:24] [32minfo[39m: Bot F2 Quest .#7713 is ready!
